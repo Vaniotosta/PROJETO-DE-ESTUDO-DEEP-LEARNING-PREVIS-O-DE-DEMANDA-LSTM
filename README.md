@@ -17,9 +17,9 @@ https://www.kaggle.com/competitions/demand-forecasting-kernels-only/data
 - Com previsões precisas, empresas e organizações podem identificar tendências futuras, o que é crucial para planejamento estratégico.
 - Tomar decisões com base em previsões pode ajudar a mitigar riscos, especialmente em setores como finanças, onde a previsão de preços de ações ou taxas de câmbio é vital.
 
-- # VISUALIZAÇÕES GRRÁFICAS
+- # VISUALIZAÇÕES GRÁFICAS
 
-- ![image](https://github.com/user-attachments/assets/c170e2da-2cbe-4a52-9f77-c663c7849aa0)
+- 
 - 
 
 - ![image](https://github.com/user-attachments/assets/c6fe59d9-f23c-437a-b739-0f36690b8ed5)
